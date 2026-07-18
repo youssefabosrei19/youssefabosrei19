@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
 
 <h3 align="center">
-AI & Machine Learning Student | Python & C++ Engineer
+AI & Machine Learning Engineer
 </h3>
 
 <p align="center">
