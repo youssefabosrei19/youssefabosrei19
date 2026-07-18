@@ -25,7 +25,7 @@ Passionate about Artificial Intelligence, Machine Learning, and continuously lea
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Computer Science Student at **Benha National University**
 
@@ -35,6 +35,7 @@ Passionate about Artificial Intelligence, Machine Learning, and continuously lea
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
+- Natural Language Processing (NLP)
 
 🌱 Currently Learning:
 - Computer Vision
@@ -45,43 +46,58 @@ Passionate about Artificial Intelligence, Machine Learning, and continuously lea
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🐦 Twitter Sentiment Analysis
+## 🌸 Flower Classification
 
-- NLP project for sentiment classification.
-- Text preprocessing with NLTK.
-- TF-IDF Vectorization.
-- Scikit-Learn.
-- Streamlit deployment.
-
----
-
-### ✈️ Airline Reservation System
-
-- Python application.
-- SQL Database.
-- Reservation Management.
-- CRUD Operations.
+- Developed a Deep Learning model to classify different flower species.
+- Image preprocessing using OpenCV.
+- Built with TensorFlow & Keras.
+- Applied Convolutional Neural Networks (CNNs) for image classification.
+- Evaluated model performance using accuracy and validation metrics.
 
 ---
 
-## 💻 Languages
+## 🐦 Twitter Sentiment Analysis
+
+- Built an NLP model for tweet sentiment classification.
+- Performed text preprocessing using NLTK.
+- Applied TF-IDF Vectorization.
+- Trained Machine Learning models using Scikit-Learn.
+- Developed a Streamlit web application for predictions.
+
+---
+
+## ✈️ Airline Reservation System
+
+- Desktop application developed with Python.
+- SQL database integration.
+- Flight reservation and booking management.
+- CRUD operations for flights and passengers.
+
+---
+
+# 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
 ### AI & Data Science
 
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Python
 - TensorFlow
 - Scikit-Learn
 - Pandas
@@ -92,7 +108,7 @@ Passionate about Artificial Intelligence, Machine Learning, and continuously lea
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 🏆 Huawei HCIA AI
 
@@ -100,7 +116,7 @@ Passionate about Artificial Intelligence, Machine Learning, and continuously lea
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=youssefabosrei19&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -110,7 +126,7 @@ Passionate about Artificial Intelligence, Machine Learning, and continuously lea
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=youssefabosrei19&theme=tokyonight&hide_border=true"/>
@@ -118,19 +134,45 @@ Passionate about Artificial Intelligence, Machine Learning, and continuously lea
 
 ---
 
-## 📫 Connect With Me
+# 📈 Contribution Graph
 
-📧 **Email:**  
-**youssefaouf13@gmail.com**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefabosrei19&theme=tokyo-night"/>
+</p>
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/youssef-mohamed-65b7b031b/
+---
 
-🐙 **GitHub:**  
-https://github.com/youssefabosrei19
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:youssefaouf13@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/youssef-mohamed-65b7b031b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/youssefabosrei19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Favorite Quote
+
+*"The best way to predict the future is to invent it."* — Alan Kay
+
+</div>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! <br>
+Feel free to explore my repositories and connect with me.
 </p>
